@@ -25,7 +25,7 @@ __*cse*__
 > sivaprakash
 >> teja
 >>> suri
-## Ordered list
+## Ordered List
 1. cse
 2. ece
 3. mech

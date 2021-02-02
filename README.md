@@ -61,5 +61,5 @@ printf("hello")
 [link](https://www.markdownguide.org/cheat-sheet/)
 
 [email](http://www.gmail.com)
-## images
+
 [image.kits](http://www.agarum.com/andhra-pradesh/prakasam/krishna-chaitanya-institute-of-technology-sciences/photos?sort=da)

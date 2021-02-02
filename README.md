@@ -26,7 +26,7 @@ __*cse*__
 >> teja
 >>> suri
 ## ordered list
-1.cse
+1. cse
 2. ece
 3. mech
     i. mech a

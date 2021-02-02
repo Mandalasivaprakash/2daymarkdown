@@ -29,7 +29,7 @@ __*cse*__
 1. cse
 2. ece
 3. mech
-    1. ech a 
+    1. mech a 
     1. mech b
 4. civil
     1. a

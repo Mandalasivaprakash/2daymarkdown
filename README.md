@@ -62,4 +62,4 @@ printf("hello")
 
 [email](http://www.gmail.com)
 ## images
-[image.kits](https://www.google.com/search?q=kits+college&sxsrf=ALeKk03BNEpgV1q74fwCQ234A-Hl4sHscw:1612243392065&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLlbPVusruAhWo-GEKHd27)
+[image.kits](http://www.agarum.com/andhra-pradesh/prakasam/krishna-chaitanya-institute-of-technology-sciences/photos?sort=da)

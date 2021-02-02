@@ -60,6 +60,6 @@ printf("hello")
 ## inserting urls
 [link](https://www.markdownguide.org/cheat-sheet/)
 
-[title](http://www.gmail.com)
+[email](http://www.gmail.com)
 ## images
 [image.kits](https://www.google.com/search?q=kits+college&sxsrf=ALeKk03BNEpgV1q74fwCQ234A-Hl4sHscw:1612243392065&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLlbPVusruAhWo-GEKHd27)

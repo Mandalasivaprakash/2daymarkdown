@@ -48,5 +48,7 @@ __*cse*__
 - eee
 ## codeing
 ```
-print(hllo friend)
+def fun():
+    print("hello friend")
+fun()
 ```

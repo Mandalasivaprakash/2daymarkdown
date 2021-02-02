@@ -64,4 +64,6 @@ printf("hello")
 
 [image.kits](http://www.agarum.com/andhra-pradesh/prakasam/krishna-chaitanya-institute-of-technology-sciences/photos?sort=da)
 ## Inserting image
-[image](http://www.agarum.com/andhra-pradesh/prakasam/krishna-chaitanya-institute-of-technology-sciences/photos?sort=da)
+![image](http://www.agarum.com/andhra-pradesh/prakasam/krishna-chaitanya-institute-of-technology-sciences/photos?sort=da)
+## Inserting videos
+[![video](https://img.youtube.com/vi/nCNqPgXDYhY/0.jpg)](https://www.youtube.com/watch?v=nCNqPgXDYhY)

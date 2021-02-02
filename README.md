@@ -50,5 +50,7 @@ __*cse*__
 ```
 def fun():
     print("hello friend")
+```
+```
 fun()
 ```

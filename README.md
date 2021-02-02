@@ -21,11 +21,11 @@ __*cse*__
 
 ## blockquotes
 > This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
-## nested blockquotes
+## Nested blockquotes
 > sivaprakash
 >> teja
 >>> suri
-## ordered list
+## Ordered list
 1. cse
 2. ece
 3. mech
